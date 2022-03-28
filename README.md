@@ -1,2 +1,2 @@
 # git-sample
-edited by paul
+edited by paul v1.0.0
